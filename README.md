@@ -13,10 +13,6 @@
 
 ###
 
-<p>Currently, I am improving my skills in the React ecosystem and expanding my knowledge of Next.js and Express. I also have knowledge in Machine Learning and Deep Learning.</p>
-
-<p>I am currently looking for an opportunity as a Junior Developer. If my profile is of interest to your team, I would be happy to connect and discuss potential opportunities.</p>
-
 <p align="left">✨ Creating bugs since 2020<br>📧 Email: lfelipe2305@hotmail.com.br<br>🎯 Goals: Learn new technologies and improve development skills<br>🎲 Area of interest: Full-stack developer</p>
 
 ###
