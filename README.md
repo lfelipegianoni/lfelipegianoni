@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">My name is Luis Felipe dos Santos Gianoni. I am a Computer Engineer currently working at a company specialized in developing applications for the education management sector.</p>
+<p align="left">My name is Luis Felipe dos Santos Gianoni. I have a degree in Computer Engineering and 1 year and 9 months of experience as a Full Stack Developer in the education sector.</p>
+
+<p>If you would like to take a look at my projects, I suggest visiting my portfolio. There, you can access the projects I am currently working on and the latest projects I have published.
+</p>
 
 ###
 
@@ -10,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 Currently learning PHP<br>🎯 Goals: Learn new technologies and improve development skills<br>🎲 Area of interest: Software Architecture</p>
+<p align="left">✨ Creating bugs since 2020<br>📧 Email: lfelipe2305@hotmail.com.br<br>🎯 Goals: Learn new technologies and improve development skills<br>🎲 Area of interest: Full-stack developer</p>
 
 ###
 
@@ -42,8 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"/>
+  <img width="12" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
   <img width="12" />
